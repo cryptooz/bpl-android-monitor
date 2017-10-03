@@ -1,12 +1,11 @@
 # BPL Monitor
 
-<img src="https://cloud.githubusercontent.com/assets/937766/19981316/3ea4a4fe-a1e0-11e6-8397-3b7bd06fa59f.png" width="200" />
-
+<img src="https://user-images.githubusercontent.com/30693473/31117782-992ffa24-a872-11e7-9b22-622541b50e4d.png" width="200" />
 ## License
 
 MIT License
 
-Copyright (c) 2016 BPL
+Copyright (c) 2017 BPL
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
